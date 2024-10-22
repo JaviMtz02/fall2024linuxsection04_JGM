@@ -3,3 +3,8 @@ FALL 2024 Linux Class
 
 # Password is: UTRGVstudent1
 To enter linux...
+
+# Password for dev_alex:
+12345
+# Password for dev_bob:
+123
