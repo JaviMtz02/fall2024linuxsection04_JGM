@@ -8,3 +8,6 @@ To enter linux...
 12345
 # Password for dev_bob:
 123
+
+# SQL stuff:
+password for javiuser: javi_password
